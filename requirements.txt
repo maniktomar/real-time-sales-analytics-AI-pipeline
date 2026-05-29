@@ -1,0 +1,13 @@
+confluent-kafka==2.5.3
+Faker==30.8.2
+PyYAML==6.0.2
+python-dotenv==1.0.1
+tenacity==9.0.0
+pyspark==3.5.3
+snowflake-connector-python==3.12.3
+snowflake-sqlalchemy==1.6.1
+fastapi==0.115.4
+uvicorn==0.32.0
+pydantic==2.9.2
+pytest==8.3.3
+

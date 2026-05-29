@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+logs/*.log
+logs/*.jsonl
+*.log
+checkpoints/
+spark-warehouse/
+derby.log
+*.dbc
+*.pbix
+*.pbit
+raglens/
